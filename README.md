@@ -1,2 +1,9 @@
 # practikum-review-buttons
-Browser plugin to choose comment type via shortcuts.
+Плагин для выбора типа коммента с помощью шортката.
+
+Выбирает нужный тип коммента и нажимает кнопку "Комментировать" при явном выборе типа.
+
+1) Ставим нужные шорткаты в shortcuts.js. Я пробовал только с Ctrl в качестве префикса, возможно что-то сломается если выбрать другой.
+2) Загружаем как распакованное (см. скрин) тут: chrome://extensions/
+
+![CleanShot 2024-04-18 at 10 37 50@2x](https://github.com/karambaq/practikum-review-buttons/assets/14233969/8b9dcf1e-bdcb-43e1-957a-b8c1d7b3b5bc)
